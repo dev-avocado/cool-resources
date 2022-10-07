@@ -1,1 +1,1 @@
-# A List of cool resources and tools
+# Awesome resources and tools
